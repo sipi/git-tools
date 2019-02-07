@@ -3,7 +3,7 @@
 
 include config.mk
 
-filename=git-status
+filename=git-tools
 
 all:
 
